@@ -34,8 +34,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <maven.compiler.source>21</maven.compiler.source>
+          <maven.compiler.target>21</maven.compiler.target>
         </configuration>
       </plugin>
                     <plugin>
